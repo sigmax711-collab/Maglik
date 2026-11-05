@@ -1,0 +1,33 @@
+```gitignore
+# Build artifacts
+dist/
+build/
+*.css.map
+
+# Dependencies
+node_modules/
+
+# Cache directories
+.npm/
+.yarn/
+.pnp.*
+.pnp.js
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
